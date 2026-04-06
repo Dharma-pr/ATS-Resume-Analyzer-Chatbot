@@ -1,0 +1,1 @@
+{\n  "name": "smart-resume-analyzer",\n  "version": "1.0.0",\n  "description": "A smart resume analyzer chatbot project",\n  "main": "index.js",\n  "scripts": {\n    "test": "echo 'Error: no test specified' && exit 1"\n  },\n  "keywords": [\n    "resume",\n    "analyzer",\n    "chatbot"\n  ],\n  "author": "Dharma-pr",\n  "license": "ISC"\n}
